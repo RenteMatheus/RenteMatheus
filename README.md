@@ -21,7 +21,7 @@ Atualmente **em busca de uma vaga de estágio ou júnior na área de Dados**.
 
 **Estudando agora:** SQL e modelagem de dados
 
-**Também trabalho com:** orquestração de agentes de IA (Claude Code, Maestro) para acelerar análise e automação
+**Também trabalho com:** orquestração de agentes de IA (Claude Code, Maestri) para acelerar análise e automação
 
 ---
 
