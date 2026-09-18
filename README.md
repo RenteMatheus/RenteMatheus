@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Matheus Rente Peixoto 👋
 
-<!--
-**RenteMatheus/RenteMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou construindo carreira em **Dados e Inteligência Artificial**, com foco em análise de dados públicos brasileiros e em orquestração de agentes de IA aplicada a problemas reais.
 
-Here are some ideas to get you started:
+Atualmente **em busca de uma vaga de estágio ou júnior na área de Dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projetos
+
+### 📊 Reclamações de consumidor: o que determina a resolução
+**Em desenvolvimento.** Análise da base pública do Consumidor.gov.br (Ministério da Justiça). Investiga a taxa de resolução por segmento de mercado e por estado, e testa se o tempo de resposta da empresa explica a satisfação do consumidor.
+
+`Python` · `Pandas` · `Matplotlib` · `Jupyter`
+
+---
+
+## Stack
+
+**Uso hoje:** Python (Pandas, Matplotlib), SQL, Git, Jupyter
+
+**Estudando agora:** SQL e modelagem de dados
+
+**Também trabalho com:** orquestração de agentes de IA (Claude Code, Maestro) para acelerar análise e automação
+
+---
+
+## Contato
+
+- **LinkedIn:** [https://www.linkedin.com/in/matheus-rente/]
+- **Email:** [matheus.rente3@gmail.com]
